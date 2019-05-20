@@ -2,7 +2,7 @@
  * servo motor.c
  *
  * Created: 5/16/2019 2:56:11 PM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include <avr/io.h>
