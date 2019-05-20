@@ -2,7 +2,7 @@
  * stepper motor.c
  *
  * Created: 5/16/2019 3:30:48 PM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include <avr/io.h>
