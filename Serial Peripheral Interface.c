@@ -2,7 +2,7 @@
  * SPI.c
  *
  * Created: 5/17/2019 11:59:31 AM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include <avr/io.h>
