@@ -2,7 +2,7 @@
  * GccApplication8.c
  *
  * Created: 5/10/2019 2:21:26 PM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 #include <avr/io.h>
 #include<util/delay.h>
