@@ -2,7 +2,7 @@
  * GccApplication10.c
  *
  * Created: 5/13/2019 10:55:49 AM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 #ifndef F_CPU
 #define F_CPU 16000000UL
