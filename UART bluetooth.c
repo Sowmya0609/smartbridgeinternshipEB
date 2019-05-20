@@ -2,7 +2,7 @@
  * USART.c
  *
  * Created: 5/16/2019 11:08:04 AM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include <avr/io.h>
