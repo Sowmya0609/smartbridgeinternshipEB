@@ -2,7 +2,7 @@
  * dc motor.c
  *
  * Created: 5/15/2019 2:17:51 PM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include<avr/io.h>
