@@ -2,7 +2,7 @@
  * GccApplication12.c
  *
  * Created: 5/14/2019 9:56:30 AM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include <avr/io.h>
