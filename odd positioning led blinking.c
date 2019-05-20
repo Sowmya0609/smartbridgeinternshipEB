@@ -2,7 +2,7 @@
  * GccApplication3.c
  *
  * Created: 5/10/2019 10:02:13 AM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include <avr/io.h>
