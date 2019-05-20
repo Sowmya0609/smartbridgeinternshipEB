@@ -2,7 +2,7 @@
  * button controlled speed.c
  *
  * Created: 5/16/2019 2:29:55 PM
- * Author : sreek
+ * Author : KSOWMYA
  */  
 
 #include <avr/io.h>
