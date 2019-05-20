@@ -2,7 +2,7 @@
  * dc motor button.c
  *
  * Created: 5/16/2019 2:17:51 PM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 
 #include<avr/io.h>
