@@ -2,7 +2,7 @@
  * dc motor with 4 buttons.c
  *
  * Created: 5/20/2019 12:04:12 PM
- * Author : sreek
+ * Author : KSOWMYA
  */ 
 #include <avr/io.h>
 #include<util/delay.h>
